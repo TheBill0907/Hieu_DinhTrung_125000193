@@ -94,4 +94,4 @@ Tôi học được cách mô tả rõ vai trò, mục tiêu, cấu trúc bắt 
 - [ ] Cập nhật URL thật ở README và nhật ký này.
 - [ ] Nếu giảng viên yêu cầu AOS chính thức, hỏi rõ có được phép dùng runtime JavaScript của thư viện hay không.
 
-**URL GitHub Pages:** Chưa triển khai — cập nhật sau khi kiểm tra URL thật.
+**URL GitHub Pages: https://thebill0907.github.io/Hieu_DinhTrung_125000193/
