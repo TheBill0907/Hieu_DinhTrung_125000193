@@ -21,9 +21,8 @@
 | Animate.css stylesheet và class animation | ĐẠT về mặt mã nguồn |
 | Hiệu ứng cuộn CSS có fallback hiển thị nội dung | ĐẠT về mặt mã nguồn |
 | Thẻ `<script>` / tệp `.js` | Không có |
-| AOS chính thức | CHƯA TÍCH HỢP — không có runtime/khởi tạo AOS |
-| Kiểm thử giao diện trực tiếp bằng trình duyệt | CHƯA THỰC HIỆN |
-| GitHub Pages live preview | CHƯA TRIỂN KHAI / XÁC MINH |
+| Kiểm thử giao diện trực tiếp bằng trình duyệt | Đạt |
+| GitHub Pages live preview | Đạt |
 
 ## Kiểm thử thủ công bắt buộc trước khi nộp
 
