@@ -42,5 +42,9 @@ Các kiểm tra tĩnh được ghi trong `TEST_RESULTS.md`. Chưa thể khẳng 
 6. Cập nhật URL GitHub và URL GitHub Pages thật vào README và PROMPT_LOG, commit/push lần cuối.
 7. Nộp cả link repository công khai và link live preview theo hướng dẫn giảng viên.
 
-**Repository:** Chưa được tạo/xác minh trong gói này.  
-**GitHub Pages:** Chưa được triển khai/xác minh trong gói này.
+## Website trực tuyến
+
+- **GitHub Repository:** https://github.com/TheBill0907/Hieu_DinhTrung_125000193
+- **Live Demo:** https://thebill0907.github.io/Hieu_DinhTrung_125000193/
+
+Website NoVarAI được xây dựng bằng HTML5 và CSS3, có giao diện responsive cho máy tính và thiết bị di động.
