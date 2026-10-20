@@ -4,7 +4,8 @@
 - **MSSV:** 125000193
 - **Tên đề tài Website:** NoVarAI — Website giới thiệu sản phẩm công nghệ
 - **Công cụ AI đã sử dụng:** ChatGPT và Google Antigravity
-- **Repository dự kiến:** `Hieu_DinhTrung_125000193`
+- **Repository:** [Hieu_DinhTrung_125000193](https://github.com/TheBill0907/Hieu_DinhTrung_125000193)
+- **Website trực tuyến:** https://thebill0907.github.io/Hieu_DinhTrung_125000193/
 
 ## 1. Yêu cầu ban đầu (System/Initial Prompt)
 
@@ -89,9 +90,6 @@ Tôi học được cách mô tả rõ vai trò, mục tiêu, cấu trúc bắt 
 - [ ] Mở `index.html` bằng Chrome/Edge và kiểm tra toàn trang.
 - [ ] Kiểm tra menu desktop/mobile, năm liên kết danh mục, ảnh và hiệu ứng cuộn.
 - [ ] Thử độ rộng 1440px, 1024px, 768px, 390px và 320px; kiểm tra chữ tràn và thanh cuộn ngang.
-- [ ] Tạo repository công khai tên `Hieu_DinhTrung_125000193`.
-- [ ] Bật GitHub Pages và kiểm tra URL live.
-- [ ] Cập nhật URL thật ở README và nhật ký này.
 - [ ] Nếu giảng viên yêu cầu AOS chính thức, hỏi rõ có được phép dùng runtime JavaScript của thư viện hay không.
 
 **URL GitHub Pages: https://thebill0907.github.io/Hieu_DinhTrung_125000193/
