@@ -22,7 +22,6 @@ NoVarAI là website giới thiệu sản phẩm công nghệ với giao diện h
 | `index.html` | Cấu trúc trang web theo Semantic HTML5, danh mục sản phẩm, khu vực giới thiệu và biểu mẫu liên hệ minh họa. |
 | `style.css` | Định dạng giao diện, CSS Variables, Flexbox, Grid, responsive, hiệu ứng hover/focus và chuyển động. |
 | `PROMPT_LOG.md` | Nhật ký Prompt Engineering, ghi lại quá trình xây dựng và cải tiến website bằng AI. |
-| `TEST_RESULTS.md` | Kết quả kiểm tra và checklist kiểm thử dự án. |
 | `README.md` | Tài liệu giới thiệu dự án và hướng dẫn sử dụng. |
 
 ## 4. Tính năng và giao diện
@@ -72,12 +71,7 @@ Truy cập:
 
 https://thebill0907.github.io/Hieu_DinhTrung_125000193/
 
-## 7. Kiểm thử
 
-Các kiểm tra tĩnh và checklist kiểm thử được ghi trong `TEST_RESULTS.md`.
-
-Website đã được mở thành công trên GitHub Pages. Tuy nhiên, điều này không đồng nghĩa với việc website đã được kiểm thử trên mọi trình duyệt hoặc thiết bị.
-
-## 8. Mục tiêu dự án
+## 7. Mục tiêu dự án
 
 Dự án được thực hiện nhằm vận dụng HTML5, CSS3, thiết kế responsive và Prompt Engineering để xây dựng một website giới thiệu sản phẩm công nghệ có bố cục rõ ràng, giao diện hiện đại và dễ sử dụng.
